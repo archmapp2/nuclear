@@ -14,3 +14,12 @@ ng build --prod --baseHref=”https://archmapp2.github.io/minty"
 
 
 (nuclear)
+git init
+git add .
+git commit -m ''
+
+git remote add origin https://github.com/archmapp2/nuclear.git
+
+
+reverent-euler-534006
+reverent-euler-534006.netlify.app
